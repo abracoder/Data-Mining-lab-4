@@ -1,0 +1,13 @@
+{
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "<surajkg33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "nodemailer": "^6.7.2"
+  }
+}
